@@ -1,3 +1,6 @@
 # Learning-github-demo
 
-This is my github repository to learn github from beginner to advanced. And i am loving it.
+This is my GitHub repository to learn GitHub from beginner to advanced. And I am loving it.
+
+Author: Shekhar Naik
+
